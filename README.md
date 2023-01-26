@@ -2,12 +2,13 @@
 
 - 🔭 Hoje eu trabalho na <a href="https://www.linkedin.com/company/plin-condominios"> Plin Soluções</a>
 - 🌱 Estou aprimorando minhas habilidades em node.js, aprendizados disponíveis <a href="https://github.com/QuadriniL/native-node-tests">nesse projeto</a>
-
+<!--
 <div>
 <a href="https://github.com/QuadriniL">
-<img height="180em" src="https://gitstatus-xbfx-6dps9gzh5-quadrinil.vercel.app/api/top-langs/?username=QuadriniL&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://gitstatus-xbfx-6dps9gzh5-quadrinil.vercel.app/api?username=QuadriniL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="gitstatus-bh9500bke-quadrinil.vercel.app/api/top-langs/?username=QuadriniL&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="gitstatus-bh9500bke-quadrinil.vercel.app/api?username=QuadriniL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
  
  ### Tecnologias favoritas
  
