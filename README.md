@@ -1,6 +1,5 @@
 # Olá, me chamo Lucas 👋
 
-- 🔭 Hoje eu trabalho na <a href="https://www.linkedin.com/company/plin-condominios"> Plin Soluções</a>
 - 🌱 Estou aprimorando minhas habilidades em node.js, aprendizados disponíveis <a href="https://github.com/QuadriniL/native-node-tests">nesse projeto</a>
 <!--
 <div>
