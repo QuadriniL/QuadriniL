@@ -1,35 +1,31 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+# Lucas Quadrini - Desenvolvedor FullStack
 
-## Olá, me chamo Lucas 👋
+## Sobre Mim
 
-- 🌱 Estou aprimorando minhas habilidades em node.js, aprendizados disponíveis <a href="https://github.com/QuadriniL/native-node-tests">nesse projeto</a>
-<!--
-<div>
-<a href="https://github.com/QuadriniL">
-<img height="180em" src="gitstatus-bh9500bke-quadrinil.vercel.app/api/top-langs/?username=QuadriniL&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="gitstatus-bh9500bke-quadrinil.vercel.app/api?username=QuadriniL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
--->
- 
- ### Tecnologias favoritas
- 
-<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"  /></a> <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"  /></a>  <a href="http://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"  /></a><a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" /></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
- 
-<!--
-**QuadriniL/QuadriniL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Lucas Quadrini, um Desenvolvedor FullStack Pleno com uma paixão pela tecnologia e uma visão empresarial. Atualmente, atuo como CEO da LQ Desenvolvimento de Software. Além do mundo da programação, tenho um interesse profundo em discutir temas como arquitetura de software, Domain-Driven Design (DDD) e boas práticas de programação. Também sou Cristão, o que me leva a explorar conversas sobre a Bíblia e desfrutar de música e jogos como parte do meu equilíbrio na vida.
 
-Here are some ideas to get you started:
+## Minha Carreira
 
+Tenho dois objetivos principais em minha carreira:
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- ![Snake animation](https://github.com/QuadriniL/QuadriniL/blob/output/github-contribution-grid-snake.svg)
+1. Aprimorar minha trajetória como desenvolvedor, seja dentro da minha empresa ou em outras oportunidades que possam surgir. Reconheço que, além do aspecto técnico, também devo desenvolver habilidades de gestão, uma vez que estou consciente de minha tendência a focar muito no operacional, muitas vezes negligenciando o planejamento estratégico.
 
+2. No que diz respeito à LQ Desenvolvimento de Software, temos atualmente uma equipe de 5 desenvolvedores, incluindo eu, e 2 designers. Nossa ambição é crescer e nos destacar ainda mais no mercado brasileiro. Para alcançar esse objetivo, estamos trabalhando em direção a uma gestão financeira mais controlada e estabelecendo metas a longo prazo para a empresa.
 
--->
+## Tecnologias
 
+Tenho conhecimento em diversas tecnologias, incluindo:
+
+- Node.js
+- Nest.js
+- Microserviços
+- React
+- Flutter
+- Python
+- Next.js
+
+## Contato
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/lucas-quadrini-949b381a7/)
+
+Sinta-se à vontade para entrar em contato para discutir projetos interessantes ou trocar ideias sobre desenvolvimento e tecnologia.
