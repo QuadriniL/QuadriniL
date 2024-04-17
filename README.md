@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Eu sou Lucas Quadrini, um Desenvolvedor FullStack Pleno. Tenho paixão pela tecnologia e uma visão empresarial. Atualmente, atuo como CEO da LQ Desenvolvimento de Software, uma Software House que lidero com entusiasmo.
+Olá! Eu sou Lucas Quadrini, Desenvolvedor de Software. Tenho paixão pela tecnologia e uma visão empresarial. Atualmente, atuo como CEO da LQ Desenvolvimento de Software, uma Software House que lidero com entusiasmo.
 
 - 💼 CEO na LQ Desenvolvimento de Software
 - 🌍 Praia Grande, SP
