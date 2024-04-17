@@ -1,4 +1,4 @@
-# Lucas Quadrini - Desenvolvedor FullStack Pleno
+# Lucas Quadrini - CEO & Software Developer
 
 ## Sobre Mim
 
